@@ -1,0 +1,104 @@
+.bg1{
+    background-image:url("../img/background.jpg");
+    background-repeat:repeat;
+    background-size: 10% 10%;
+    margin-top: 2px;
+    padding-top: 5%;
+    padding-bottom: 20%;
+    }
+.btitle{
+    margin-top: 2%;
+    font-size:45px;
+}
+#pic{
+    text-align: center;
+}
+#left{
+    padding-left: 6%;
+    padding-top: 1%;
+}
+.btn{
+    padding: 10px 30px 10px 30px;
+    background: #66C1E4;
+    border: none;
+    color: #FFF;
+    box-shadow: 1px 1px 1px #4C6E91;
+    -webkit-box-shadow: 1px 1px 1px #4C6E91;
+    -moz-box-shadow: 1px 1px 1px #4C6E91;
+    text-shadow: 1px 1px 1px #5079A3;
+}
+.btn:hover{
+    background: #5599FF;
+}
+.file{
+    text-align: center;
+    padding-top: 5%;
+}
+.white{
+    color: #5F6A6A;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    line-height: 150%;
+}
+.header{
+    background-color:#FDFEFE;
+    padding-bottom: 5%;
+    box-shadow: 1px 1px 1px #D7DBDD;
+    }
+.txt{
+    padding-left: 4.5%;
+    }
+.up-header {
+    width:600px;
+    text-align: center;
+  }
+.up-content {
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #F7F9F9;
+    font-size: 20px;
+    text-align: center;
+    }
+.up-area {
+    border: 2px dashed #ccc;
+    margin: 0px 20px 50px 20px;
+    width: 600px;
+    min-height: 200px;
+    line-height: 100px;
+    }
+.box{
+    margin-top: 10%;
+    margin-left: 22%;
+    margin-right: 22%;
+}
+#box{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: #5F6A6A;
+}
+#box2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: #5F6A6A;
+}
+.hint{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: #5F6A6A;
+}
+.list-group {
+    margin: 0px auto;;
+    width: 200px;
+    min-height: 100px;
+    padding: 10px;
+    }
+.close {
+    margin-left: 550px;
+    margin-top: -20px;
+}
+.foot{
+    background-color: #BDC3C7;
+    padding-bottom: 5%;
+}
